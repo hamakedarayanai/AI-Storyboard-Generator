@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Generator",
+  "description": "Transform your text-based story scripts into a visual storyboard. The app automatically generates images for each scene, allowing you to edit, re-order, and customize your frames to build a complete storyboard.",
+  "requestFramePermissions": []
+}
